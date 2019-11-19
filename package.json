@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is the group chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepnegi1996/group-chat-nodejs.git"
+  },
+  "keywords": [
+    "group"
+  ],
+  "author": "sandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepnegi1996/group-chat-nodejs/issues"
+  },
+  "homepage": "https://github.com/sandeepnegi1996/group-chat-nodejs#readme",
+  "dependencies": {
+    "ejs": "^2.7.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

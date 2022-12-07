@@ -21,7 +21,7 @@
   "homepage": "https://github.com/sandeepnegi1996/group-chat-nodejs#readme",
   "dependencies": {
     "ejs": "^2.7.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "socket.io": "^2.3.0"
   }
 }
